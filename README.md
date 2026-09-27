@@ -1,4 +1,4 @@
-# Curve Tab Folders for Search
+# Tab Folders for Search
 
 Curve’s sidebar tab folders, ported by **Noah Helms (@haon-v2)** into a separate, optional module for the Search Appearance Mod Loader.
 
